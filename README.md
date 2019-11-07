@@ -1,6 +1,6 @@
 # ApacheSolr
 
-<h1>installation help</h1>
+<h1>Installation Help</h1>
 
 
 <h2> 1. Install Apache Solr Locally </h2>
@@ -27,6 +27,8 @@ Path %SOLR_HOME%\bin
 <h2> 4. To check status you can you below command </h2>
 
 ./solr status
+
+<h2>5. Open port 8080 in browser to access apache solr console</h2>
 
 
 
