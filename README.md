@@ -11,6 +11,10 @@
 
 [ ]!(https://github.com/HariPriyaJupally/ApacheSolr/blob/master/teamslide.jpeg)
 
+# About ApacheSolr:
+
+Solr is an open-source enterprise-search platform, written in Java, from the Apache Lucene project. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document handling
+
 <h1>Installation Help</h1>
 
 PRE REQ : JDK 1.8 or above
