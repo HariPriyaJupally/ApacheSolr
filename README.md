@@ -41,7 +41,7 @@ Path %SOLR_HOME%\bin
 
 ./solr start -p 8080
 
-
+![](https://github.com/HariPriyaJupally/ApacheSolr/blob/master/commandprompt.png)
 
 <h2> 4. To check status of solr node you can use below command </h2>
 
