@@ -31,6 +31,8 @@ http://mirror.reverse.net/pub/apache/lucene/solr/8.3.0/solr-8.3.0.zip
 
 Extract using 7-zip to c:\
 
+![](https://github.com/HariPriyaJupally/ApacheSolr/blob/master/solr_folder.png)
+
 <h2>2. Set Environmental Variables and add path</h2>
 
 SOLR_HOME=C:\solr-8.3.0  
