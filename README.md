@@ -26,7 +26,7 @@ Path %SOLR_HOME%\bin
 
 ./solr start -p 8080
 
-<h2> 4. To check status you can you below command </h2>
+<h2> 4. To check status of solr node you can use below command </h2>
 
 ./solr status
 
