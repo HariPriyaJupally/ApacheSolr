@@ -2,6 +2,8 @@
 
 <h1>Installation Help</h1>
 
+PRE REQ : JDK 1.8 or above
+
 
 <h2> 1. Install Apache Solr Locally </h2>
 
