@@ -33,7 +33,7 @@ Extract using 7-zip to c:\
 
 <h2>2. Set Environmental Variables and add path</h2>
 
-SOLR_HOME=C:\solr-8.3.0
+SOLR_HOME=C:\solr-8.3.0  
 
 Path %SOLR_HOME%\bin
 
