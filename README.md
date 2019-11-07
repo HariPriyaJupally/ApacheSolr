@@ -37,6 +37,8 @@ Extract using 7-zip to c:\
 
 SOLR_HOME=C:\solr-8.3.0  
 
+![](https://github.com/HariPriyaJupally/ApacheSolr/blob/master/eniv_var.png)
+
 Path %SOLR_HOME%\bin
 
 <h2> 3. Open powershell in C:\solr-8.3.0\bin and use following commands to start apache solr in port 8080 </h2>
