@@ -2,14 +2,14 @@
 
 ## Team Members
 
-|Team Member's Name 
+|Team Member's Names - Group 07
 | -------------     
 | Vamsee Krishna Gangapatnam     
 | Harish Reddy Vavilala     
 | Akshara Gurram    
 | Hari Priya Jupally  
 
-[]!(https://github.com/HariPriyaJupally/ApacheSolr/blob/master/teamslide.jpeg?raw=true)
+[]!(https://github.com/HariPriyaJupally/ApacheSolr/blob/master/teamslide.jpeg)
 
 <h1>Installation Help</h1>
 
