@@ -15,7 +15,7 @@
 
 Solr is an open-source enterprise-search platform, written in Java, from the Apache Lucene project. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features and rich document handling
 
-<h1>Installation Help</h1>
+<h1>Installation and Starting Help</h1>
 
 PRE REQ : JDK 1.8 or above
 
@@ -50,6 +50,12 @@ Path %SOLR_HOME%\bin
 <h2>5. Open port 8080 in browser to access apache solr console</h2>
 
 ![](https://github.com/HariPriyaJupally/ApacheSolr/blob/master/solr_console.png)
+
+<h2>6. To stop the apache solr you can use following commands</h2>
+
+For specific port : ./solr stop -p 8080
+For all at a time:  ./solr stop -all
+![](https://github.com/HariPriyaJupally/ApacheSolr/blob/master/solr_stop.png)
 
 
 
