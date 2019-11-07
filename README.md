@@ -47,6 +47,7 @@ Path %SOLR_HOME%\bin
 
 <h2>5. Open port 8080 in browser to access apache solr console</h2>
 
+![](https://github.com/HariPriyaJupally/ApacheSolr/blob/master/solr_console.png)
 
 
 
