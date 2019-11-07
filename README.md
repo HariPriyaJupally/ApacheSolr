@@ -9,7 +9,7 @@
 | Akshara Gurram    
 | Hari Priya Jupally  
 
-[]!(https://github.com/HariPriyaJupally/ApacheSolr/blob/master/teamslide.jpeg)
+[ ]!(https://github.com/HariPriyaJupally/ApacheSolr/blob/master/teamslide.jpeg)
 
 <h1>Installation Help</h1>
 
