@@ -1,5 +1,16 @@
 # ApacheSolr
 
+## Team Members
+
+|Team Member's Name 
+| -------------     
+| Vamsee Krishna Gangapatnam     
+| Harish Reddy Vavilala     
+| Akshara Gurram    
+| Hari Priya Jupally  
+
+[]!()
+
 <h1>Installation Help</h1>
 
 PRE REQ : JDK 1.8 or above
